@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8bff8287c3b422108ab2b61ed4013184" extends="sys_user" label="DF Users" max_length="40" name="x_1687730_df_core_df_users" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element default="86459a0fc3b422108ab2b61ed401318a" label="Migrant Wave" max_length="32" name="migrant_wave" reference="x_1687730_df_core_migrant_waves" type="reference"/>
+        <element label="Happiness" max_length="40" name="happiness" type="integer"/>
+        <element label="Nickname" max_length="40" name="nickname" type="string"/>
+        <index name="index">
+            <element name="migrant_wave"/>
+        </index>
+    </element>
+</database>

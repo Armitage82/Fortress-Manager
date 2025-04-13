@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1687730_df_core_dwarves" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:02</sys_created_on>
+            <sys_id>e8e0ca0ec37022108ab2b61ed4013164</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:02</sys_created_on>
+            <sys_id>60e0ca0ec37022108ab2b61ed4013165</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:02</sys_created_on>
+            <sys_id>e0e0ca0ec37022108ab2b61ed4013165</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:02</sys_created_on>
+            <sys_id>64e0ca0ec37022108ab2b61ed4013165</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:02</sys_created_on>
+            <sys_id>e4e0ca0ec37022108ab2b61ed4013165</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:02</sys_created_on>
+            <sys_id>68e0ca0ec37022108ab2b61ed4013165</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1687730_df_core_dwarves</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ece0ca0ec37022108ab2b61ed4013163</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1687730_df_core_dwarves</sys_name>
+            <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+            <sys_update_name>sys_ui_list_x_1687730_df_core_dwarves_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DF Core">2b814d85c33022108ab2b61ed40131df</application>
+        <file_path/>
+        <instance_id>8aed759a1b753d101024eb9b2d4bcb42</instance_id>
+        <instance_name>dev184330</instance_name>
+        <name>sys_ui_list_x_1687730_df_core_dwarves_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1687730_df_core_dwarves" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_row</element><list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:02</sys_created_on><sys_id>e8e0ca0ec37022108ab2b61ed4013164</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_set</element><list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:02</sys_created_on><sys_id>60e0ca0ec37022108ab2b61ed4013165</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_state</element><list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:02</sys_created_on><sys_id>e0e0ca0ec37022108ab2b61ed4013165</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_table</element><list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:02</sys_created_on><sys_id>64e0ca0ec37022108ab2b61ed4013165</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_sys_id</element><list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:02</sys_created_on><sys_id>e4e0ca0ec37022108ab2b61ed4013165</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_row_error</element><list_id display_value="x_1687730_df_core_dwarves" element="NULL" name="x_1687730_df_core_dwarves" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece0ca0ec37022108ab2b61ed4013163</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:02</sys_created_on><sys_id>68e0ca0ec37022108ab2b61ed4013165</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:02</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1687730_df_core_dwarves</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ece0ca0ec37022108ab2b61ed4013163</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1687730_df_core_dwarves</sys_name><sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package><sys_policy/><sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope><sys_update_name>sys_ui_list_x_1687730_df_core_dwarves_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:02</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1733010793</payload_hash>
+        <record_name>Dwarves</record_name>
+        <reverted_from/>
+        <source>4a220589c33022108ab2b61ed40131c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-13 17:45:49</sys_created_on>
+        <sys_id>14981907c3b022108ab2b61ed401317f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1963041ede20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-13 17:45:49</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>d0981907f4b022104492ee839e56337f</update_guid>
+        <update_guid_history>d0981907f4b022104492ee839e56337f:1733010793</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-13 17:45:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>098857f3fac14f25808b31ae6e85c089</sys_id>
+        <sys_metadata>ece0ca0ec37022108ab2b61ed4013163</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1687730_df_core_dwarves</sys_name>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_parent display_value="">53d04a0ec37022108ab2b61ed401311c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_scope_delete display_value="">9e1a56d6d92b4221b3e382cbcbe70511</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1687730_df_core_dwarves_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1687730_df_core_dwarves_null">14981907c3b022108ab2b61ed401317f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-13 17:45:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

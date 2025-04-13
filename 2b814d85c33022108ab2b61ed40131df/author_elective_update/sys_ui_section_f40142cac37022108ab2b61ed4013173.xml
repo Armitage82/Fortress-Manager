@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="f40142cac37022108ab2b61ed4013173" sys_domain="global" table="x_1687730_df_core_dwarves" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>34018e0ec37022108ab2b61ed40131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc018e0ec37022108ab2b61ed40131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_mining</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>74018e0ec37022108ab2b61ed40131de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_blacksmithing</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f8018e0ec37022108ab2b61ed40131de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_strand_extraction</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>70018e0ec37022108ab2b61ed40131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cooking</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f4018e0ec37022108ab2b61ed40131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stone_carving</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c018e0ec37022108ab2b61ed40131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_plant_processing</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f0018e0ec37022108ab2b61ed40131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_surgery</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>78018e0ec37022108ab2b61ed40131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lye_making</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc018e0ec37022108ab2b61ed40131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_profession</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>74018e0ec37022108ab2b61ed40131e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pump_operating</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f8018e0ec37022108ab2b61ed40131e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_woodcrafting</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>70018e0ec37022108ab2b61ed40131e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gem_cutting</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f4018e0ec37022108ab2b61ed40131e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_refuse_hauling</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c018e0ec37022108ab2b61ed40131e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_diagnosis</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f0018e0ec37022108ab2b61ed40131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trade_goods_hauling</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>78018e0ec37022108ab2b61ed40131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_animal_training</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc018e0ec37022108ab2b61ed40131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fish_cleaning</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>74018e0ec37022108ab2b61ed40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_furniture_hauling</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f8018e0ec37022108ab2b61ed40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_food_hauling</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>70018e0ec37022108ab2b61ed40131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_clothesmaking</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f4018e0ec37022108ab2b61ed40131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_siege_engineering</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c018e0ec37022108ab2b61ed40131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_brewing</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f0018e0ec37022108ab2b61ed40131e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glazing</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>78018e0ec37022108ab2b61ed40131e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_plant_gathering</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc018e0ec37022108ab2b61ed40131e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_weaponsmithing</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>74018e0ec37022108ab2b61ed40131e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pressing</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f8018e0ec37022108ab2b61ed40131e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_construction</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>70018e0ec37022108ab2b61ed40131e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_water_hauling</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f4018e0ec37022108ab2b61ed40131e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_carpentry</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed4013101</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stonecrafting</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed4013102</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_small_animal_dissection</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed4013102</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wood_hauling</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed4013102</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_farming</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed4013103</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stonecutting</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7801ce0ec37022108ab2b61ed4013103</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fish_dissection</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc01ce0ec37022108ab2b61ed4013103</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_metalcrafting</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7401ce0ec37022108ab2b61ed4013104</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glassmaking</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed4013104</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_butchery</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed4013105</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_feed_patients_prisoners</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed4013105</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_burial</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed4013105</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cheese_making</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed4013106</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cleaning</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7801ce0ec37022108ab2b61ed4013106</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trapping</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc01ce0ec37022108ab2b61ed4013106</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7401ce0ec37022108ab2b61ed4013107</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bookbinding</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed4013107</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_mechanics</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed4013108</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soaping</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed4013108</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pottery</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed4013108</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tanning</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed4013109</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_current_job</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7801ce0ec37022108ab2b61ed4013109</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gelding</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc01ce0ec37022108ab2b61ed4013109</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wood_burning</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7401ce0ec37022108ab2b61ed401310a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_papermaking</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed401310a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_setting_bones</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed401310b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bone_carving</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed401310b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stone_hauling</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed401310b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_hunting</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed401310c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dyeing</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7801ce0ec37022108ab2b61ed401310c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_leatherworking</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc01ce0ec37022108ab2b61ed401310c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bee_keeping</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7401ce0ec37022108ab2b61ed401310d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_milling</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed401310d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dressing_wounds</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed401310e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fishing</element>
+            <position>64</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed401310e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_milking</element>
+            <position>65</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed401310e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stone_engraving</element>
+            <position>66</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed401310f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_item_hauling</element>
+            <position>67</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7801ce0ec37022108ab2b61ed401310f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bowyery</element>
+            <position>68</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc01ce0ec37022108ab2b61ed401310f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wood_cutting</element>
+            <position>69</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7401ce0ec37022108ab2b61ed4013110</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_siege_operating</element>
+            <position>70</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed4013110</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_levers</element>
+            <position>71</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed4013111</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_animal_care</element>
+            <position>72</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed4013111</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_furnace_operating</element>
+            <position>73</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed4013111</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_happiness</element>
+            <position>74</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed4013112</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_shearing</element>
+            <position>75</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7801ce0ec37022108ab2b61ed4013112</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_equipment</element>
+            <position>76</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc01ce0ec37022108ab2b61ed4013112</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_weaving</element>
+            <position>77</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7401ce0ec37022108ab2b61ed4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_push_haul_vehicles</element>
+            <position>78</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_deconstruction</element>
+            <position>79</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed4013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_suturing</element>
+            <position>80</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed4013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_masonry</element>
+            <position>81</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed4013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_animal_hauling</element>
+            <position>82</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed4013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_recovering_wounded</element>
+            <position>83</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7801ce0ec37022108ab2b61ed4013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_spinning</element>
+            <position>84</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>fc01ce0ec37022108ab2b61ed4013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_road_building</element>
+            <position>85</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7401ce0ec37022108ab2b61ed4013116</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wax_working</element>
+            <position>86</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f801ce0ec37022108ab2b61ed4013116</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_armoring</element>
+            <position>87</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7001ce0ec37022108ab2b61ed4013117</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_potash_making</element>
+            <position>88</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f401ce0ec37022108ab2b61ed4013117</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gem_setting</element>
+            <position>89</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>7c01ce0ec37022108ab2b61ed4013117</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>90</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+            <sys_id>f001ce0ec37022108ab2b61ed4013118</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1687730_df_core_dwarves</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 18:08:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f40142cac37022108ab2b61ed4013173</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1687730_df_core_dwarves</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+            <sys_update_name>sys_ui_section_f40142cac37022108ab2b61ed4013173</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 18:08:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DF Core">2b814d85c33022108ab2b61ed40131df</application>
+        <file_path/>
+        <instance_id>8aed759a1b753d101024eb9b2d4bcb42</instance_id>
+        <instance_name>dev184330</instance_name>
+        <name>sys_ui_section_f40142cac37022108ab2b61ed4013173</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="f40142cac37022108ab2b61ed4013173" sys_domain="global" table="x_1687730_df_core_dwarves" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>34018e0ec37022108ab2b61ed40131dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc018e0ec37022108ab2b61ed40131dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_mining</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>74018e0ec37022108ab2b61ed40131de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_blacksmithing</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f8018e0ec37022108ab2b61ed40131de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_strand_extraction</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>70018e0ec37022108ab2b61ed40131df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_cooking</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f4018e0ec37022108ab2b61ed40131df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_stone_carving</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c018e0ec37022108ab2b61ed40131df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_plant_processing</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f0018e0ec37022108ab2b61ed40131e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_surgery</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>78018e0ec37022108ab2b61ed40131e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_lye_making</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc018e0ec37022108ab2b61ed40131e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_profession</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>74018e0ec37022108ab2b61ed40131e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_pump_operating</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f8018e0ec37022108ab2b61ed40131e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_woodcrafting</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>70018e0ec37022108ab2b61ed40131e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_gem_cutting</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f4018e0ec37022108ab2b61ed40131e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_refuse_hauling</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c018e0ec37022108ab2b61ed40131e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_diagnosis</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f0018e0ec37022108ab2b61ed40131e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_trade_goods_hauling</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>78018e0ec37022108ab2b61ed40131e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_animal_training</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc018e0ec37022108ab2b61ed40131e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_fish_cleaning</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>74018e0ec37022108ab2b61ed40131e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_furniture_hauling</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f8018e0ec37022108ab2b61ed40131e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_food_hauling</element><position>20</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>70018e0ec37022108ab2b61ed40131e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_clothesmaking</element><position>21</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f4018e0ec37022108ab2b61ed40131e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_siege_engineering</element><position>22</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c018e0ec37022108ab2b61ed40131e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_brewing</element><position>23</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f0018e0ec37022108ab2b61ed40131e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_glazing</element><position>24</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>78018e0ec37022108ab2b61ed40131e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_plant_gathering</element><position>25</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc018e0ec37022108ab2b61ed40131e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_weaponsmithing</element><position>26</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>74018e0ec37022108ab2b61ed40131e7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_pressing</element><position>27</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f8018e0ec37022108ab2b61ed40131e7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_construction</element><position>28</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>70018e0ec37022108ab2b61ed40131e8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_water_hauling</element><position>29</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f4018e0ec37022108ab2b61ed40131e8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_carpentry</element><position>30</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed4013101</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_stonecrafting</element><position>31</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed4013102</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_small_animal_dissection</element><position>32</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed4013102</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_wood_hauling</element><position>33</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed4013102</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_farming</element><position>34</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed4013103</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_stonecutting</element><position>35</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7801ce0ec37022108ab2b61ed4013103</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_fish_dissection</element><position>36</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc01ce0ec37022108ab2b61ed4013103</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_metalcrafting</element><position>37</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7401ce0ec37022108ab2b61ed4013104</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_glassmaking</element><position>38</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed4013104</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_butchery</element><position>39</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed4013105</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_feed_patients_prisoners</element><position>40</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed4013105</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_burial</element><position>41</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed4013105</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_cheese_making</element><position>42</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed4013106</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_cleaning</element><position>43</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7801ce0ec37022108ab2b61ed4013106</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_trapping</element><position>44</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc01ce0ec37022108ab2b61ed4013106</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>45</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7401ce0ec37022108ab2b61ed4013107</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_bookbinding</element><position>46</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed4013107</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_mechanics</element><position>47</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed4013108</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_soaping</element><position>48</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed4013108</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_pottery</element><position>49</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed4013108</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_tanning</element><position>50</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed4013109</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_current_job</element><position>51</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7801ce0ec37022108ab2b61ed4013109</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_gelding</element><position>52</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc01ce0ec37022108ab2b61ed4013109</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_wood_burning</element><position>53</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7401ce0ec37022108ab2b61ed401310a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_papermaking</element><position>54</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed401310a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_setting_bones</element><position>55</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed401310b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_bone_carving</element><position>56</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed401310b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_stone_hauling</element><position>57</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed401310b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_hunting</element><position>58</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed401310c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_dyeing</element><position>59</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7801ce0ec37022108ab2b61ed401310c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_leatherworking</element><position>60</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc01ce0ec37022108ab2b61ed401310c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_bee_keeping</element><position>61</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7401ce0ec37022108ab2b61ed401310d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_milling</element><position>62</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed401310d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_dressing_wounds</element><position>63</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed401310e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_fishing</element><position>64</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed401310e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_milking</element><position>65</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed401310e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_stone_engraving</element><position>66</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed401310f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_item_hauling</element><position>67</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7801ce0ec37022108ab2b61ed401310f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_bowyery</element><position>68</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc01ce0ec37022108ab2b61ed401310f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_wood_cutting</element><position>69</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7401ce0ec37022108ab2b61ed4013110</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_siege_operating</element><position>70</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed4013110</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_levers</element><position>71</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed4013111</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_animal_care</element><position>72</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed4013111</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_furnace_operating</element><position>73</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed4013111</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_happiness</element><position>74</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed4013112</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_shearing</element><position>75</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7801ce0ec37022108ab2b61ed4013112</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_equipment</element><position>76</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc01ce0ec37022108ab2b61ed4013112</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_weaving</element><position>77</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7401ce0ec37022108ab2b61ed4013113</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_push_haul_vehicles</element><position>78</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed4013113</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_deconstruction</element><position>79</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed4013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_suturing</element><position>80</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed4013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_masonry</element><position>81</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed4013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_animal_hauling</element><position>82</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed4013115</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_recovering_wounded</element><position>83</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7801ce0ec37022108ab2b61ed4013115</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_spinning</element><position>84</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>fc01ce0ec37022108ab2b61ed4013115</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_road_building</element><position>85</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7401ce0ec37022108ab2b61ed4013116</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_wax_working</element><position>86</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f801ce0ec37022108ab2b61ed4013116</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_armoring</element><position>87</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7001ce0ec37022108ab2b61ed4013117</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_potash_making</element><position>88</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f401ce0ec37022108ab2b61ed4013117</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_gem_setting</element><position>89</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>7c01ce0ec37022108ab2b61ed4013117</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>90</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:36</sys_created_on><sys_id>f001ce0ec37022108ab2b61ed4013118</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_dwarves" sys_domain="global" view="Default view">f40142cac37022108ab2b61ed4013173</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:36</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1687730_df_core_dwarves</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 18:08:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f40142cac37022108ab2b61ed4013173</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1687730_df_core_dwarves</sys_name><sys_overrides/><sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package><sys_policy/><sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope><sys_update_name>sys_ui_section_f40142cac37022108ab2b61ed4013173</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 18:08:35</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-430381943</payload_hash>
+        <record_name>Dwarves</record_name>
+        <reverted_from/>
+        <source>4a220589c33022108ab2b61ed40131c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-10 18:08:36</sys_created_on>
+        <sys_id>0901ce0ec37022108ab2b61ed401311f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19620e3b7520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-10 18:08:36</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>cd01ce0eee702210b4a4e72426d9841e</update_guid>
+        <update_guid_history>cd01ce0eee702210b4a4e72426d9841e:-430381943,340142caac7022105e6cd2310e789776:1772841602</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-13 17:45:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>40546fe677ab48aea8903478ee5518a4</sys_id>
+        <sys_metadata>f40142cac37022108ab2b61ed4013173</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1687730_df_core_dwarves</sys_name>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_parent display_value="">53d04a0ec37022108ab2b61ed401311c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_scope_delete display_value="">9e1a56d6d92b4221b3e382cbcbe70511</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f40142cac37022108ab2b61ed4013173</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f40142cac37022108ab2b61ed4013173">0901ce0ec37022108ab2b61ed401311f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-13 17:45:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

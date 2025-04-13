@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Df Core 1744581934665</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1687730_df_core_1744581934665</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>armok_dev</sys_created_by>
+        <sys_created_on>2025-04-13 22:05:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e0492cbc3b422108ab2b61ed40131ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Df Core 1744581934665</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_update_name>sys_app_module_0e0492cbc3b422108ab2b61ed40131ce</sys_update_name>
+        <sys_updated_by>armok_dev</sys_updated_by>
+        <sys_updated_on>2025-04-13 22:05:37</sys_updated_on>
+        <timeline_page/>
+        <title>Df Core 1744581934665</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DF Core">2b814d85c33022108ab2b61ed40131df</application>
+        <file_path/>
+        <instance_id>8aed759a1b753d101024eb9b2d4bcb42</instance_id>
+        <instance_name>dev184330</instance_name>
+        <name>sys_app_module_0e0492cbc3b422108ab2b61ed40131ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Df Core 1744581934665</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1687730_df_core_1744581934665</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>armok_dev</sys_created_by><sys_created_on>2025-04-13 22:05:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0e0492cbc3b422108ab2b61ed40131ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Df Core 1744581934665</sys_name><sys_overrides/><sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package><sys_policy/><sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope><sys_update_name>sys_app_module_0e0492cbc3b422108ab2b61ed40131ce</sys_update_name><sys_updated_by>armok_dev</sys_updated_by><sys_updated_on>2025-04-13 22:05:37</sys_updated_on><timeline_page/><title>Df Core 1744581934665</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-386723265</payload_hash>
+        <record_name>Df Core 1744581934665</record_name>
+        <reverted_from/>
+        <source>ab814549c33022108ab2b61ed4013125</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>armok_dev</sys_created_by>
+        <sys_created_on>2025-04-13 22:05:37</sys_created_on>
+        <sys_id>ca0492cbc3b422108ab2b61ed40131eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196312fca1f0000001</sys_recorded_at>
+        <sys_updated_by>armok_dev</sys_updated_by>
+        <sys_updated_on>2025-04-13 22:05:37</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8e0492cb0db422104458490a276a9aea</update_guid>
+        <update_guid_history>8e0492cb0db422104458490a276a9aea:-386723265</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Df Core 1744581934665">6e459a0fc3b422108ab2b61ed40131f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>armok_dev</sys_created_by>
+        <sys_created_on>2025-04-13 22:11:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>a4b817a2210b446d8091400f1d0b1f99</sys_id>
+        <sys_metadata>0e0492cbc3b422108ab2b61ed40131ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Df Core 1744581934665</sys_name>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_scope_delete display_value="">9e1a56d6d92b4221b3e382cbcbe70511</sys_scope_delete>
+        <sys_update_name>sys_app_module_0e0492cbc3b422108ab2b61ed40131ce</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0e0492cbc3b422108ab2b61ed40131ce">ca0492cbc3b422108ab2b61ed40131eb</sys_update_version>
+        <sys_updated_by>armok_dev</sys_updated_by>
+        <sys_updated_on>2025-04-13 22:11:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

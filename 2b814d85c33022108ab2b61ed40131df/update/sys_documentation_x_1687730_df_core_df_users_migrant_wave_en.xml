@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="migrant_wave" label="Migrant Wave" language="en" table="x_1687730_df_core_df_users">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>migrant_wave</element>
+            <help/>
+            <hint/>
+            <label>Migrant Wave</label>
+            <language>en</language>
+            <name>x_1687730_df_core_df_users</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>armok_dev</sys_created_by>
+            <sys_created_on>2025-04-13 22:21:44</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Migrant Wave</sys_name>
+            <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+            <sys_update_name>sys_documentation_x_1687730_df_core_df_users_migrant_wave_en</sys_update_name>
+            <sys_updated_by>armok_dev</sys_updated_by>
+            <sys_updated_on>2025-04-13 22:22:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

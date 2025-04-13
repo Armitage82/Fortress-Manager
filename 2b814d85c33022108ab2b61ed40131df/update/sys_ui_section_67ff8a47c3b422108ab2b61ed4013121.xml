@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Job Role" section_id="67ff8a47c3b422108ab2b61ed4013121" sys_domain="global" table="x_1687730_df_core_df_users" version="3" view="human_resources">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_id>6bff8a47c3b422108ab2b61ed4013124</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_1687730_df_core_df_users" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">67ff8a47c3b422108ab2b61ed4013121</sys_ui_section>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>1</position>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_id>e7ff8a47c3b422108ab2b61ed4013123</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_1687730_df_core_df_users" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">67ff8a47c3b422108ab2b61ed4013121</sys_ui_section>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager</element>
+            <position>2</position>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_id>efff8a47c3b422108ab2b61ed4013124</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_1687730_df_core_df_users" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">67ff8a47c3b422108ab2b61ed4013121</sys_ui_section>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_id>6fff8a47c3b422108ab2b61ed4013123</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_1687730_df_core_df_users" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">67ff8a47c3b422108ab2b61ed4013121</sys_ui_section>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>4</position>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_id>67ff8a47c3b422108ab2b61ed4013125</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_1687730_df_core_df_users" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">67ff8a47c3b422108ab2b61ed4013121</sys_ui_section>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>5</position>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_id>2fff8a47c3b422108ab2b61ed4013122</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_1687730_df_core_df_users" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">67ff8a47c3b422108ab2b61ed4013121</sys_ui_section>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_id>e3ff8a47c3b422108ab2b61ed4013124</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_1687730_df_core_df_users" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">67ff8a47c3b422108ab2b61ed4013121</sys_ui_section>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Job Role</caption>
+            <header>false</header>
+            <name>x_1687730_df_core_df_users</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>asinger</sys_created_by>
+            <sys_created_on>2025-04-13 21:47:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67ff8a47c3b422108ab2b61ed4013121</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1687730_df_core_df_users</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+            <sys_update_name>sys_ui_section_67ff8a47c3b422108ab2b61ed4013121</sys_update_name>
+            <sys_updated_by>asinger</sys_updated_by>
+            <sys_updated_on>2025-04-13 21:47:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Human Resources" name="human_resources">3e5370019f22120047a2d126c42e705b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

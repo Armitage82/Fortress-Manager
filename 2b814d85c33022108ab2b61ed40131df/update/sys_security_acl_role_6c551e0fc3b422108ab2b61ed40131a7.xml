@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>armok_dev</sys_created_by>
+        <sys_created_on>2025-04-13 22:11:14</sys_created_on>
+        <sys_id>6c551e0fc3b422108ab2b61ed40131a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1687730_df_core_migrant_waves.x_1687730_df_core.manager</sys_name>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_security_acl display_value="x_1687730_df_core_migrant_waves">a8551e0fc3b422108ab2b61ed40131a4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6c551e0fc3b422108ab2b61ed40131a7</sys_update_name>
+        <sys_updated_by>armok_dev</sys_updated_by>
+        <sys_updated_on>2025-04-13 22:11:14</sys_updated_on>
+        <sys_user_role display_value="x_1687730_df_core.manager" name="x_1687730_df_core.manager">9455da0fc3b422108ab2b61ed401311c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="01455a0fc3b422108ab2b61ed401312a" label="Migrant Waves" max_length="40" name="x_1687730_df_core_migrant_waves" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="WAVE ID" mandatory="true" max_length="40" name="wave_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Season" max_length="40" name="season" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

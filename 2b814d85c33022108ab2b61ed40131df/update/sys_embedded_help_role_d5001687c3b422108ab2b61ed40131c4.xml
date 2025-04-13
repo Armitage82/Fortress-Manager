@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1687730_df_core.admin" name="x_1687730_df_core.admin">55001687c3b422108ab2b61ed40131c1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>armok_dev</sys_created_by>
+        <sys_created_on>2025-04-13 21:48:05</sys_created_on>
+        <sys_id>d5001687c3b422108ab2b61ed40131c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>55001687c3b422108ab2b61ed40131c1</sys_name>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d5001687c3b422108ab2b61ed40131c4</sys_update_name>
+        <sys_updated_by>armok_dev</sys_updated_by>
+        <sys_updated_on>2025-04-13 21:48:05</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

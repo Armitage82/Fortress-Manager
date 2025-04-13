@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DT_DwarfList</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1687730_df_core_dt_dwarflist</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-10 17:49:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>64acf1c6c37022108ab2b61ed401318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DT_DwarfList</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_update_name>sys_app_module_64acf1c6c37022108ab2b61ed401318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-10 17:49:27</sys_updated_on>
+        <timeline_page/>
+        <title>DT_DwarfList</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DF Core">2b814d85c33022108ab2b61ed40131df</application>
+        <file_path/>
+        <instance_id>8aed759a1b753d101024eb9b2d4bcb42</instance_id>
+        <instance_name>dev184330</instance_name>
+        <name>sys_app_module_64acf1c6c37022108ab2b61ed401318a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>DT_DwarfList</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1687730_df_core_dt_dwarflist</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 17:49:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>64acf1c6c37022108ab2b61ed401318a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DT_DwarfList</sys_name><sys_overrides/><sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package><sys_policy/><sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope><sys_update_name>sys_app_module_64acf1c6c37022108ab2b61ed401318a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 17:49:27</sys_updated_on><timeline_page/><title>DT_DwarfList</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-567348716</payload_hash>
+        <record_name>DT_DwarfList</record_name>
+        <reverted_from/>
+        <source>4a220589c33022108ab2b61ed40131c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-10 17:49:27</sys_created_on>
+        <sys_id>20acf1c6c37022108ab2b61ed401318e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19620d22f770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-10 17:49:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e0acf1c692702210e3f7d5b2501f798d</update_guid>
+        <update_guid_history>e0acf1c692702210e3f7d5b2501f798d:-567348716</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DT_DwarfList">dc8ebd0ac37022108ab2b61ed40131dd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-10 17:57:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3a9ac3e3d0ae47089ef2faa3dfb1edd9</sys_id>
+        <sys_metadata>64acf1c6c37022108ab2b61ed401318a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DT_DwarfList</sys_name>
+        <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+        <sys_scope_delete display_value="">9e1a56d6d92b4221b3e382cbcbe70511</sys_scope_delete>
+        <sys_update_name>sys_app_module_64acf1c6c37022108ab2b61ed401318a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_64acf1c6c37022108ab2b61ed401318a">20acf1c6c37022108ab2b61ed401318e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-10 17:57:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
