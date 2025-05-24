@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0e131fc483352210e6d86f80ceaad350" extends="sys_import_set_row" label="migrant waves table.xlsx (Uploaded)" max_length="40" name="x_1687730_df_core_1744581934665" type="collection">
+        <element attributes="import_attribute_name=Feed Patients/Prisoners" label="Feed Patients/Prisoners" max_length="40" name="u_feed_patients_prisoners" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Mechanics" label="Mechanics" max_length="40" name="u_mechanics" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Papermaking" label="Papermaking" max_length="40" name="u_papermaking" type="string"/>
+        <element attributes="import_attribute_name=Wood Hauling" label="Wood Hauling" max_length="40" name="u_wood_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WAVE ID" label="WAVE ID" max_length="40" name="u_wave_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Animal Training" label="Animal Training" max_length="40" name="u_animal_training" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cooking" label="Cooking" max_length="40" name="u_cooking" type="string"/>
+        <element attributes="import_attribute_name=Refuse Hauling" label="Refuse Hauling" max_length="40" name="u_refuse_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Mining" label="Mining" max_length="40" name="u_mining" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Blacksmithing" label="Blacksmithing" max_length="40" name="u_blacksmithing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Strand Extraction" label="Strand Extraction" max_length="40" name="u_strand_extraction" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Diagnosis" label="Diagnosis" max_length="40" name="u_diagnosis" type="string"/>
+        <element attributes="import_attribute_name=Trade Goods Hauling" label="Trade Goods Hauling" max_length="40" name="u_trade_goods_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Bone Carving" label="Bone Carving" max_length="40" name="u_bone_carving" type="string"/>
+        <element attributes="import_attribute_name=Stone Hauling" label="Stone Hauling" max_length="40" name="u_stone_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Hunting" label="Hunting" max_length="40" name="u_hunting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Dyeing" label="Dyeing" max_length="40" name="u_dyeing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stone Carving" label="Stone Carving" max_length="40" name="u_stone_carving" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plant Processing" label="Plant Processing" max_length="40" name="u_plant_processing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Dressing Wounds" label="Dressing Wounds" max_length="40" name="u_dressing_wounds" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stonecutting" label="Stonecutting" max_length="40" name="u_stonecutting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fish Dissection" label="Fish Dissection" max_length="40" name="u_fish_dissection" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Metalcrafting" label="Metalcrafting" max_length="40" name="u_metalcrafting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Glassmaking" label="Glassmaking" max_length="40" name="u_glassmaking" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Surgery" label="Surgery" max_length="40" name="u_surgery" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Lye Making" label="Lye Making" max_length="40" name="u_lye_making" type="string"/>
+        <element attributes="import_attribute_name=Profession" label="Profession" max_length="40" name="u_profession" type="integer"/>
+        <element attributes="import_attribute_name=Levers" label="Levers" max_length="40" name="u_levers" type="integer"/>
+        <element attributes="import_attribute_name=Burial" label="Burial" max_length="40" name="u_burial" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cheese Making" label="Cheese Making" max_length="40" name="u_cheese_making" type="string"/>
+        <element attributes="import_attribute_name=Cleaning" label="Cleaning" max_length="40" name="u_cleaning" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Trapping" label="Trapping" max_length="40" name="u_trapping" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Pump Operating" label="Pump Operating" max_length="40" name="u_pump_operating" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Woodcrafting" label="Woodcrafting" max_length="40" name="u_woodcrafting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gem Cutting" label="Gem Cutting" max_length="40" name="u_gem_cutting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Soaping" label="Soaping" max_length="40" name="u_soaping" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Pottery" label="Pottery" max_length="40" name="u_pottery" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Tanning" label="Tanning" max_length="40" name="u_tanning" type="string"/>
+        <element attributes="import_attribute_name=Current Job" label="Current Job" max_length="40" name="u_current_job" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Leatherworking" label="Leatherworking" max_length="40" name="u_leatherworking" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Butchery" label="Butchery" max_length="40" name="u_butchery" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Wood Cutting" label="Wood Cutting" max_length="40" name="u_wood_cutting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Bookbinding" label="Bookbinding" max_length="40" name="u_bookbinding" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gelding" label="Gelding" max_length="40" name="u_gelding" type="string"/>
+        <element attributes="import_attribute_name=Year" label="Year" max_length="40" name="u_year" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Siege Operating" label="Siege Operating" max_length="40" name="u_siege_operating" type="string"/>
+        <element attributes="import_attribute_name=Water Hauling" label="Water Hauling" max_length="40" name="u_water_hauling" type="integer"/>
+        <element attributes="import_attribute_name=Push/Haul Vehicles" label="Push/Haul Vehicles" max_length="40" name="u_push_haul_vehicles" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Spinning" label="Spinning" max_length="40" name="u_spinning" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Milling" label="Milling" max_length="40" name="u_milling" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="41" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fish Cleaning" label="Fish Cleaning" max_length="40" name="u_fish_cleaning" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Clothesmaking" label="Clothesmaking" max_length="40" name="u_clothesmaking" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Season" label="Season" max_length="40" name="u_season" type="string"/>
+        <element attributes="import_attribute_name=Furniture Hauling" label="Furniture Hauling" max_length="40" name="u_furniture_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Glazing" label="Glazing" max_length="40" name="u_glazing" type="string"/>
+        <element attributes="import_attribute_name=Food Hauling" label="Food Hauling" max_length="40" name="u_food_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Carpentry" label="Carpentry" max_length="40" name="u_carpentry" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stonecrafting" label="Stonecrafting" max_length="40" name="u_stonecrafting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Small Animal Dissection" label="Small Animal Dissection" max_length="40" name="u_small_animal_dissection" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Farming" label="Farming" max_length="40" name="u_farming" type="string"/>
+        <element attributes="import_attribute_name=Road Building" label="Road Building" max_length="40" name="u_road_building" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Wax Working" label="Wax Working" max_length="40" name="u_wax_working" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Armoring" label="Armoring" max_length="40" name="u_armoring" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Potash Making" label="Potash Making" max_length="40" name="u_potash_making" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Siege Engineering" label="Siege Engineering" max_length="40" name="u_siege_engineering" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Brewing" label="Brewing" max_length="40" name="u_brewing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fishing" label="Fishing" max_length="40" name="u_fishing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Milking" label="Milking" max_length="40" name="u_milking" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stone Engraving" label="Stone Engraving" max_length="40" name="u_stone_engraving" type="string"/>
+        <element attributes="import_attribute_name=Item Hauling" label="Item Hauling" max_length="40" name="u_item_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plant Gathering" label="Plant Gathering" max_length="40" name="u_plant_gathering" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Weaponsmithing" label="Weaponsmithing" max_length="40" name="u_weaponsmithing" type="string"/>
+        <element attributes="import_attribute_name=Animal Care" label="Animal Care" max_length="40" name="u_animal_care" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Furnace Operating" label="Furnace Operating" max_length="40" name="u_furnace_operating" type="string"/>
+        <element attributes="import_attribute_name=Happiness" label="Happiness" max_length="40" name="u_happiness" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Shearing" label="Shearing" max_length="40" name="u_shearing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Equipment" label="Equipment" max_length="40" name="u_equipment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Pressing" label="Pressing" max_length="40" name="u_pressing" type="string"/>
+        <element attributes="import_attribute_name=Construction" label="Construction" max_length="40" name="u_construction" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Setting Bones" label="Setting Bones" max_length="40" name="u_setting_bones" type="string"/>
+        <element attributes="import_attribute_name=Deconstruction" label="Deconstruction" max_length="40" name="u_deconstruction" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Suturing" label="Suturing" max_length="40" name="u_suturing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Masonry" label="Masonry" max_length="40" name="u_masonry" type="string"/>
+        <element attributes="import_attribute_name=Animal Hauling" label="Animal Hauling" max_length="40" name="u_animal_hauling" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gem Setting" label="Gem Setting" max_length="40" name="u_gem_setting" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Bowyery" label="Bowyery" max_length="40" name="u_bowyery" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Weaving" label="Weaving" max_length="40" name="u_weaving" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Wood Burning" label="Wood Burning" max_length="40" name="u_wood_burning" type="string"/>
+        <element attributes="import_attribute_name=Recovering Wounded" label="Recovering Wounded" max_length="40" name="u_recovering_wounded" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Bee Keeping" label="Bee Keeping" max_length="40" name="u_bee_keeping" type="string"/>
+    </element>
+</database>

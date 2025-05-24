@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a3335bc483352210e6d86f80ceaad37d" sys_domain="global" table="x_1687730_df_core_1744581934665" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>1</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad316</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_papermaking</element>
+            <position>2</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad316</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wood_hauling</element>
+            <position>3</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad317</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_animal_training</element>
+            <position>4</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad317</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cooking</element>
+            <position>5</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad318</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_refuse_hauling</element>
+            <position>6</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad318</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_mining</element>
+            <position>7</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad318</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_blacksmithing</element>
+            <position>8</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad319</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_strand_extraction</element>
+            <position>9</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad319</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_diagnosis</element>
+            <position>10</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad319</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trade_goods_hauling</element>
+            <position>11</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad31a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stone_carving</element>
+            <position>12</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad31a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_plant_processing</element>
+            <position>13</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad31b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_surgery</element>
+            <position>14</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad31b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lye_making</element>
+            <position>15</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad31b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_profession</element>
+            <position>16</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pump_operating</element>
+            <position>17</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_woodcrafting</element>
+            <position>18</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gem_cutting</element>
+            <position>19</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad31d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_siege_operating</element>
+            <position>20</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad31d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_water_hauling</element>
+            <position>21</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad31e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fish_cleaning</element>
+            <position>22</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad31e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_clothesmaking</element>
+            <position>23</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad31e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_furniture_hauling</element>
+            <position>24</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad31f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glazing</element>
+            <position>25</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad31f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_food_hauling</element>
+            <position>26</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad31f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_carpentry</element>
+            <position>27</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad320</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stonecrafting</element>
+            <position>28</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad320</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_small_animal_dissection</element>
+            <position>29</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_siege_engineering</element>
+            <position>30</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_brewing</element>
+            <position>31</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_plant_gathering</element>
+            <position>32</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_weaponsmithing</element>
+            <position>33</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pressing</element>
+            <position>34</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_construction</element>
+            <position>35</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_feed_patients_prisoners</element>
+            <position>36</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_mechanics</element>
+            <position>37</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad324</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bone_carving</element>
+            <position>38</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad324</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stone_hauling</element>
+            <position>39</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad324</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_hunting</element>
+            <position>40</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dyeing</element>
+            <position>41</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dressing_wounds</element>
+            <position>42</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stonecutting</element>
+            <position>43</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fish_dissection</element>
+            <position>44</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>45</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_metalcrafting</element>
+            <position>46</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glassmaking</element>
+            <position>47</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_levers</element>
+            <position>48</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_burial</element>
+            <position>49</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cheese_making</element>
+            <position>50</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cleaning</element>
+            <position>51</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trapping</element>
+            <position>52</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_soaping</element>
+            <position>53</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pottery</element>
+            <position>54</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tanning</element>
+            <position>55</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_current_job</element>
+            <position>56</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_leatherworking</element>
+            <position>57</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_butchery</element>
+            <position>58</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wood_cutting</element>
+            <position>59</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bookbinding</element>
+            <position>60</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gelding</element>
+            <position>61</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_push_haul_vehicles</element>
+            <position>62</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_spinning</element>
+            <position>63</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_milling</element>
+            <position>64</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_farming</element>
+            <position>65</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_road_building</element>
+            <position>66</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wax_working</element>
+            <position>67</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_armoring</element>
+            <position>68</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_potash_making</element>
+            <position>69</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fishing</element>
+            <position>70</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_milking</element>
+            <position>71</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stone_engraving</element>
+            <position>72</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_item_hauling</element>
+            <position>73</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_animal_care</element>
+            <position>74</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_furnace_operating</element>
+            <position>75</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_happiness</element>
+            <position>76</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_shearing</element>
+            <position>77</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad333</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_equipment</element>
+            <position>78</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad333</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_setting_bones</element>
+            <position>79</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad333</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_deconstruction</element>
+            <position>80</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad334</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_suturing</element>
+            <position>81</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad334</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_masonry</element>
+            <position>82</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad334</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_animal_hauling</element>
+            <position>83</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7733d30883352210e6d86f80ceaad335</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gem_setting</element>
+            <position>84</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>fb33d30883352210e6d86f80ceaad335</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bowyery</element>
+            <position>85</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7333d30883352210e6d86f80ceaad336</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_weaving</element>
+            <position>86</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f733d30883352210e6d86f80ceaad336</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wood_burning</element>
+            <position>87</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7f33d30883352210e6d86f80ceaad336</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_recovering_wounded</element>
+            <position>88</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>f333d30883352210e6d86f80ceaad337</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bee_keeping</element>
+            <position>89</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>7b33d30883352210e6d86f80ceaad337</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>90</position>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:49</sys_created_on>
+            <sys_id>ff33d30883352210e6d86f80ceaad337</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1687730_df_core_1744581934665" sys_domain="global" view="Default view">a3335bc483352210e6d86f80ceaad37d</sys_ui_section>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1687730_df_core_1744581934665</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>armitage</sys_created_by>
+            <sys_created_on>2025-05-24 12:02:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3335bc483352210e6d86f80ceaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1687730_df_core_1744581934665</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
+            <sys_update_name>sys_ui_section_a3335bc483352210e6d86f80ceaad37d</sys_update_name>
+            <sys_updated_by>armitage</sys_updated_by>
+            <sys_updated_on>2025-05-24 12:02:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
