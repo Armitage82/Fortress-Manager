@@ -7,27 +7,27 @@
         <date_format>yyyy-MM-dd HH:mm:ss</date_format>
         <map display_value="Dwarf Import">c8f00a0ac37022108ab2b61ed40131d6</map>
         <reference_value_field/>
-        <source_field>u_name</source_field>
+        <source_field>u_nick_name</source_field>
         <source_script><![CDATA[answer = (function transformEntry(source) {
 
 	// Add your code here
 	return ""; // return the value to be put into the target field
 
 })(source);]]></source_script>
-        <source_table>x_1687730_df_core_dwarves</source_table>
+        <source_table>x_1687730_df_core_dwarf_import</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-04-10 18:11:53</sys_created_on>
-        <sys_id>45c1020ec37022108ab2b61ed4013148</sys_id>
+        <sys_created_by>armitage</sys_created_by>
+        <sys_created_on>2025-05-24 12:38:05</sys_created_on>
+        <sys_id>2c5b5b4083752210e6d86f80ceaad3fa</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>u_name</sys_name>
+        <sys_name>u_nick_name</sys_name>
         <sys_package display_value="DF Core" source="x_1687730_df_core">2b814d85c33022108ab2b61ed40131df</sys_package>
         <sys_policy/>
         <sys_scope display_value="DF Core">2b814d85c33022108ab2b61ed40131df</sys_scope>
-        <sys_update_name>sys_transform_entry_45c1020ec37022108ab2b61ed4013148</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-10 18:11:53</sys_updated_on>
-        <target_field>name</target_field>
+        <sys_update_name>sys_transform_entry_2c5b5b4083752210e6d86f80ceaad3fa</sys_update_name>
+        <sys_updated_by>armitage</sys_updated_by>
+        <sys_updated_on>2025-05-24 12:38:05</sys_updated_on>
+        <target_field>x_1687730_df_core_nick_name</target_field>
         <target_table>sys_user</target_table>
         <use_source_script>false</use_source_script>
     </sys_transform_entry>

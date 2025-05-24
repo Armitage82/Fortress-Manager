@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4bba5f4083752210e6d86f80ceaad38e" extends="sys_import_set_row" label="dwarf_import" max_length="40" name="x_1687730_df_core_dwarf_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Migrant Wave" label="Migrant Wave" max_length="40" name="u_migrant_wave" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Happiness" label="Happiness" max_length="40" name="u_happiness" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Age" label="Age" max_length="40" name="u_age" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Title" label="Title" max_length="40" name="u_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nick Name" label="Nick Name" max_length="40" name="u_nick_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User ID" label="User ID" max_length="40" name="u_user_id" type="string"/>
+    </element>
+</database>
